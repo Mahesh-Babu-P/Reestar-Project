@@ -1,4 +1,4 @@
 # Reestar-Project
-programming lanuages used 
+programming languages used 
 HTML
 CSS
